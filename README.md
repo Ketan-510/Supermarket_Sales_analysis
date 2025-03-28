@@ -7,9 +7,13 @@ This project analyzes supermarket sales data to uncover customer trends, sales p
 **🔍 Key Insights**
 
 ✅ **Peak Sales Hours**: Identified high-traffic shopping periods
+
 ✅ **Best-Selling Products**: Found top-performing categories & items
+
 ✅ **Customer Segmentation**: Grouped customers based on purchasing behavior
+
 ✅ **Payment Method Trends**: Analyzed which payment types are most preferred
+
 ✅ **Branch Performance**: Compared sales across different store locations
 
 **🛠️ Methodology**
