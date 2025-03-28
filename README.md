@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 # 🛒 Supermarket Sales Analysis
 
 **📌 Project Overview**
@@ -73,5 +72,3 @@ Open supermarket_sales.ipynb in Jupyter Notebook.
 Run all cells to generate insights.
 
 Modify filtering conditions to customize the analysis.
-=======
->>>>>>> 751455b34b35e1b8be5d9fb021588f00e8790d93
