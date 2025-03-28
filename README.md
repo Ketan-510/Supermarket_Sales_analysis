@@ -37,15 +37,21 @@ This project analyzes supermarket sales data to uncover customer trends, sales p
 --Classified customers based on purchase frequency and spending patterns
 
 **❓ Questions Solved**
+
 ✅ What are the peak sales hours and days?
+
 ✅ Which product categories drive the most revenue?
+
 ✅ How do customer preferences vary by branch?
+
 ✅ Which payment methods are most commonly used?
 
 **🔧 Tech Stack Used**
 
 **Excel**: Data cleaning, conditional formatting, pivot tables
+
 **Python**:Pandas & NumPy – data handling & transformations
+
 **Matplotlib** – data visualization
 
 
